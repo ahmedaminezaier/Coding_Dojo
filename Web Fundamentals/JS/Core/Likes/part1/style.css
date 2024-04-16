@@ -1,0 +1,28 @@
+.box {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem;
+    width: 30%;
+    height: 200px;
+}
+
+.like-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    float: right;
+    font-size: 1rem;
+    margin: 0 0.5rem 0 0;
+
+}
+    
+.like-count {
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0 0.5rem 0 0;
+    cursor: pointer;
+    float: right;
+
+}

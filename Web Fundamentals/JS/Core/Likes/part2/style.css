@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+.post {
+    background-color: #f5f5f5;
+    padding: 1rem;
+    margin: 1rem;
+   
+}
+
+
+.like-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 0 0.5rem 0 0;
+    cursor: pointer;
+}
+
+.like-count {
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0 0.5rem 0 0;
+}
+h2{
+    text-align: center;
+
+}
+.box{
+    width: 150px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    margin-right: 50px;
+}
+h3{
+    width: 550px;
+    height: 200px;
+    border: 1px solid black;
+    margin:10px;
+    float: right;
+    padding: 10px;
+    position:absolute;
+    top: 120px;
+    right: 800px; 
+
+}
+h1{
+    
+    background-color: black;
+  height: auto;
+  margin: 20px;
+}
+h4{
+    width: 550px;
+    height: 200px;
+    border: 1px solid black;
+    margin:260px;
+    float: right;
+    padding: 10px;
+    position:absolute;
+    top: 120px;
+    right: 550px;   
+}
+h5{
+    width: 550px;
+    height: 200px;
+    border: 1px solid black;
+    margin:260px;
+    float: right;
+    padding: 10px;
+  position:absolute;
+    top: 370px;
+    right: 550px; 
+}
